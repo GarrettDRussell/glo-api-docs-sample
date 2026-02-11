@@ -18,7 +18,6 @@ flowchart LR
     C --> D[Subscription Engine]
     D --> E[Webhook Destinations]
 ```
-
 ## Use Cases
 - Audit logging
 - IoT telemetry

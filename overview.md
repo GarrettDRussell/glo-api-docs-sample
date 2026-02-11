@@ -17,3 +17,11 @@ flowchart LR
     B --> C[Event Store]
     C --> D[Subscription Engine]
     D --> E[Webhook Destinations]
+
+```
+## Use Cases
+
+- Audit logging
+- IoT telemetry
+- Application analytics
+- Workflow automation
